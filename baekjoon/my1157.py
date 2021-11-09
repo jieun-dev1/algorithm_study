@@ -32,4 +32,4 @@ def find_max_occurred_alphabet(string):
         return print(chr(max_alphabet_index + ord("A")))
 
 result = find_max_occurred_alphabet(string)
-# print(result)
+print(result)
